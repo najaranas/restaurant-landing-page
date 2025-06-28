@@ -22,26 +22,5 @@ A simple and responsive landing page for a restaurant. Built with HTML and CSS. 
 - CSS3
 - boxicons (optional for icons)
 
-## 🚀 How to Run Locally
 
-1. Clone the repository:
-
-git clone https://github.com/najaranas/restaurant-landing-page.git
-Open the project folder:
-
-bash
-Copy
-Edit
-cd restaurant-landing-page
-Open the index.html file in your browser to view it.
-
-🌐 Deployment
-This project is deployed on Netlify, but you can also deploy it on:
-
-GitHub Pages
-
-Vercel
-
-Firebase Hosting
-
-🚀 Made with ❤️ by Najar Anas
+## 🚀 Made with ❤️ by Najar Anas
