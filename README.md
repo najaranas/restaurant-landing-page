@@ -2,6 +2,11 @@
 
 A simple and responsive landing page for a restaurant. Built with HTML and CSS. This project is designed to showcase a clean and elegant design suitable for restaurants, cafés, or small businesses.
 
+
+## 🔗 Live Demo
+
+👉 [restaurant-najar.netlify.app](https://restaurant-najar.netlify.app/)
+
 ## ✨ Features
 
 - Clean and modern design
