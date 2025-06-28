@@ -2,10 +2,6 @@
 
 A simple and responsive landing page for a restaurant. Built with HTML and CSS. This project is designed to showcase a clean and elegant design suitable for restaurants, cafés, or small businesses.
 
-## 🔗 Live Demo
-
-👉 [hover-planets-menu.netlify.app](https://hover-planets-menu.netlify.app/)
-
 ## ✨ Features
 
 - Clean and modern design
