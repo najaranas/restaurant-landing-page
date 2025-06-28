@@ -4,7 +4,7 @@ A simple and responsive landing page for a restaurant. Built with HTML and CSS. 
 
 ## 🔗 Live Demo
 
-👉 [restaurant-najar.netlify.app](https://restaurant-najar.netlify.app/)
+👉 [hover-planets-menu.netlify.app](https://hover-planets-menu.netlify.app/)
 
 ## ✨ Features
 
